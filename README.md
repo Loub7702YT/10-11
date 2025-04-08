@@ -30,8 +30,16 @@ Windows 11 **Sucks**, lets revert it to its Big Brothers Style, Windows 10.
 
 9.  Click Restart File Explorer Again.
 
-10.  Install [Mica For Everyone](https://github.com/MicaForEveryone/MicaForEveryone/releases/tag/2.0.2.0)
+10.  Now Head Over To FIle Explorer Settings (Still On The Properties App)
 
-11.  Once Installed, Go To Every Menu And Set `Corner Style` To Square.
+11.  Set File Explorer Control Interface to `Windows 10 Ribbon`
+
+12.  Restart File Explorer One Last Time
+
+13.  Install [Mica For Everyone](https://github.com/MicaForEveryone/MicaForEveryone/releases/latest)
+
+14.  Once Installed, Restart Your PC
+
+15.  After the restart, Go To Every Menu in Mica For Everyone (Should Open In The Hidden icons Tab Of The System Tray)  And Set `Corner Style` To Square.
 
 # Icon Pack, Sounds, Cursors and More Soon!
